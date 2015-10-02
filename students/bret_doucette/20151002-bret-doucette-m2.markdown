@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-For this module, I wanted to focus on how I tackled problems. A lot of stress from module one was related to me doubting myself and being  hard on myself. To combat this, I tried to become better at not becoming overwhelmed when facing difficult problems or when working with people that solved problems quicker. I improved but still struggled. My strategy was to focus on small problems; breaking them into logical components instead of focusing on the entire problem.
+For this module, I wanted to focus on how I tackled problems. A lot of stress from module one was related to me doubting myself and being hard on myself. To combat this, I tried to become better at not becoming overwhelmed when facing difficult problems or when working with people that solved problems quicker. I improved but still struggled. My strategy was to focus on small problems; breaking them into logical components instead of focusing on the entire problem.
 
 I also wanted to improve my public speaking abilities so I gave two lightning talks and volunteered to be one of the leaders for 1508's student orientation
 
@@ -110,11 +110,9 @@ The good:
 * Working with someone from Echo. I learned a lot from Holzmann.
 * Learning from our mistakes on Sunday to have a productive Monday.
 
-
 The bad:
 
 * Rabbit Holes - We went down too many.
-
 
 The ugly:
 
@@ -151,7 +149,6 @@ Holzmann - "Bret is very organized and super fun to work with. He was the glue t
 
 Pease - "It was impressive watching Bret work during Traffic Spy.  His ability to learn new information on the fly was pretty cool to see.  He was positive and supportive the entire time.  I honestly don't think I have seen him in a bad mood over the last 2 modules which is really beneficial to the people around him.""
 
-
 #### Earmarked
 
 * [Website](http://earmarked.herokuapp.com/)
@@ -162,7 +159,7 @@ Pease - "It was impressive watching Bret work during Traffic Spy.  His ability t
 
 In this eleven day project, we built a Ruby on Rails Application that allows issue specific donating in the 2016 Presidential Election.
 
-Per our About Page:
+Per our Earmark's About Page:
 
 "Earmarked is a tool that will revolutionize how people donate to presidential elections. Earmarked is unique because it allows users to donate to specific issues in each candidate's campaign. Do you like Hillary Clinton's stance on the environment? Donate to just that part of her campaign. Would you like to see each candidate's stance on the economy? Browse the Issues Section to see what each candidate thinks."
 
