@@ -143,7 +143,7 @@ Given for the Pivot
 
 ### Playing a Part
 
-TO BE COMPLETED
+* Helped various students
 
 ## Review
 
