@@ -76,7 +76,7 @@ GitHub:
 
 **Description**
 
-PlaneBlame is a Ruby on Rails web application that tracks the on-time percentage of the major US airlines at the major US airports.
+PlaneBlame is a Ruby on Rails web application that tracks the on-time percentage of the major US airlines at the major US airports. I used background workers and Ajax to obtain and display the data.
 
 **Evaluation Comments**
 
@@ -93,7 +93,7 @@ Performance:
 
 ### Projects
 
-In module three, I participated in the following team projects:
+In module three, I participated in the following team project:
 
 #### The Pivot - Little Loans
 * [Website](http://littleloans.herokuapp.com/)
