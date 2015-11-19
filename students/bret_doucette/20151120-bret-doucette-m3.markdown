@@ -69,12 +69,31 @@ GitHub:
 * **API Design**: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
 * **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
+#### PlaneBlame
+
+* [Website](https://planeblame.herokuapp.com/)
+* [GitHub URL](https://github.com/bad6e/plane_blame)
+
+**Description**
+
+PlaneBlame is a Ruby on Rails web application that tracks the on-time percentage of the major US airlines at the major US airports. I used background workers and Ajax to obtain and display the data.
+
+**Evaluation Comments**
+
+Github: Notes:
+
+Completion:
+Organization:
+Test-Driven Development:
+Code Quality:
+User Experience:
+Performance:
 
 ## Team
 
 ### Projects
 
-In module three, I participated in the following team projects:
+In module three, I participated in the following team project:
 
 #### The Pivot - Little Loans
 * [Website](http://littleloans.herokuapp.com/)
@@ -89,7 +108,7 @@ Little Loans is a micro lending platform for small businesses.
 
 The good:
 
-* Working with someone Matt & Russell - both strong coders. I learned a lot from them.
+* Working with Matt & Russell - both strong coders. I learned a lot from them!
 * Working on some advanced model logic.
 
 The bad:
@@ -133,7 +152,9 @@ Scores:
 
 **Feedback to me**
 
-TO BE COMPLETED
+From Matt -
+
+"I worked with Bret during the pivot and it was a real pleasure. He agreed to be project manager and kept us all on track, ensuring all stories were complete for each client meeting. All three of us on the team were burnt out at the start of the project/module, but Bret would always have a smile on his face as we planned what was next. He did some really cool things with our forms and views that I have been able to apply to future projects. As far as anything to work on, I'll just pass along something I learned from a salesman, "Stop at yes." The example that comes to mind was while he was neogitating a score, but maybe it happened at other times. I really enjoyed working with Bret and anyone who hires him is getting someone smart, hard working, and really easy to work with."
 
 ## Community
 
@@ -143,7 +164,7 @@ Given for the Pivot
 
 ### Playing a Part
 
-TO BE COMPLETED
+* Helped various students
 
 ## Review
 
