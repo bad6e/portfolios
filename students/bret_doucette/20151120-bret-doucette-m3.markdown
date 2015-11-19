@@ -69,6 +69,18 @@ GitHub:
 * **API Design**: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
 * **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
+#### PlaneBlame
+
+* [Website](https://planeblame.herokuapp.com/)
+* [GitHub URL](https://github.com/bad6e/plane_blame)
+
+**Description**
+
+PlaneBlame is a Ruby on Rails web application that tracks the on-time percentage of the major US airlines at the major US airports.
+
+**Evaluation Comments**
+
+TO BE COMPLETED
 
 ## Team
 
