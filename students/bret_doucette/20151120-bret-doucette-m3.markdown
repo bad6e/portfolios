@@ -101,7 +101,7 @@ Little Loans is a micro lending platform for small businesses.
 
 The good:
 
-* Working with someone Matt & Russell - both strong coders. I learned a lot from them.
+* Working with someone Matt & Russell - both strong coders. I learned a lot from them!
 * Working on some advanced model logic.
 
 The bad:
