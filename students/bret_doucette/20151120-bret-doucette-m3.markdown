@@ -80,7 +80,14 @@ PlaneBlame is a Ruby on Rails web application that tracks the on-time percentage
 
 **Evaluation Comments**
 
-TO BE COMPLETED
+Github: Notes:
+
+Completion:
+Organization:
+Test-Driven Development:
+Code Quality:
+User Experience:
+Performance:
 
 ## Team
 
@@ -101,7 +108,7 @@ Little Loans is a micro lending platform for small businesses.
 
 The good:
 
-* Working with someone Matt & Russell - both strong coders. I learned a lot from them!
+* Working with Matt & Russell - both strong coders. I learned a lot from them!
 * Working on some advanced model logic.
 
 The bad:
