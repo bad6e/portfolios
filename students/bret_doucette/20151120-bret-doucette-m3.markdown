@@ -145,7 +145,9 @@ Scores:
 
 **Feedback to me**
 
-TO BE COMPLETED
+From Matt -
+
+"I worked with Bret during the pivot and it was a real pleasure. He agreed to be project manager and kept us all on track, ensuring all stories were complete for each client meeting. All three of us on the team were burnt out at the start of the project/module, but Bret would always have a smile on his face as we planned what was next. He did some really cool things with our forms and views that I have been able to apply to future projects. As far as anything to work on, I'll just pass along something I learned from a salesman, "Stop at yes." The example that comes to mind was while he was neogitating a score, but maybe it happened at other times. I really enjoyed working with Bret and anyone who hires him is getting someone smart, hard working, and really easy to work with."
 
 ## Community
 
