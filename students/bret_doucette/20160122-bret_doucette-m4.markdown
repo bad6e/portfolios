@@ -111,6 +111,10 @@ Per Dave:
 
 Bret’s understanding of MVC principles and his ability to quickly learn new technologies is a source of inspiration for me. An example of this is his adoption of Zombie for testing his websockets app. He was able to implement it, try it out, then trash it and switch to a totally different system all in a couple of days. I admire Bret’s dedication and work ethic, as evidenced by his git commits and the late hours I see him put in regularly. I would not hesitate to have him on any team I am a part of.
 
+Per MB:
+
+You are so dedicated to your work. You put so much time into all of your projects, and produced amazing work because of it. I feel like I saw you show so much tenacity, because things didn’t always come easy, but you worked hard for it, and have great projects to show for it. You always share resources with the rest of us, so we don’t have to have the same painful process of discovery… You saved my ass with PryJS and testing resources for sure! I know it’s hard, but I hope you are able to find balance once you leave Turing. It seems like each module, you had nothing left at the end. Make sure you find ways to take care of yourself, stay curious about programming, and don’t burn yourself out too soon.
+
 ## Community
 
 ### Giving Feedback
@@ -129,13 +133,19 @@ Out of all the people at Turing, Dave is the most inspiring person here. His wor
 
 To Chris:
 
-Sadly I never got to pair with Chris on a project. I didn’t realize this until late in the program. I was in a deep dark hell hole of JavaScript and Chris helped me out of it. He didn’t have to, but spent 2+ hours with me, helping me debug an issue I had for the previous 28 hours. He is selfless and awesome. I will miss working with him.
+Sadly I never got to pair with Chris on a project. I didn’t realize this until late in the program. I was in a deep dark hell hole of JavaScript and Chris helped me out of it. He didn’t have to, but spent 2+ hours with me, helping me debug an issue I had for the previous 28 hours. He is selfless and awesome. He also helped me with Bubble Sort. He is a great algorithmic thinker. I will miss working with him.
+
+One area for improvement would be to not get so frustrated on setting up Rails/Express etc. I would recommend working with people who enjoy Dev Ops!
 
 To Regis:
 
 Regis is one of the most enthusiastic people I met while at Turing and one of most inspiring. The Regis from module one (where I believe he struggled a bit) to the Regis of now is like a whole new person. His knowledge of dev ops and his passion for learning about an assortment of dev ops related materials is amazing. Not only did he teach himself all these things, he selflessly taught other people. I can remember being in my own wormhole of code in regards to the asset pipeline in Rails. Regis took time away from his own project ( when he had little time to finish it) and help me. Thank you Regis.
 
 One area of improvement would be he sometimes can more difficult than they need to be BUT he always sorts it out in the end - though I also do this...
+
+To MB:
+
+MB is one of the hardest workers of our module. Whenever I see her, she is focused on some project; working diligently late into the night. She crushed module 4 and with each subsequent module, she became a more confident and capable programmer. She was also quite giving - sending out valuable information on slack on a daily basis. Like me, I hope we are able to find balance after leaving Turing. From our first drink at the Mexican place across to street - to scrambling to find feedback at the end of module 4, it was was always a pleasure being at Turing with you.
 
 
 ### Playing a Part
