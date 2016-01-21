@@ -4,7 +4,7 @@
 
 ### Areas of Emphasis
 
-For this module, I wanted to become comfortable with JavaScript and more comfortable with algorithmic thinking. Game Time helped with both of these. I also wanted to focus on my weaker areas. I also redid two projects from module one (Linked Lists and Mastermind) and wrote blog posts on topics that confused me (sessions v. cookies, n+1 queries, and time in Rails).
+For this module, I wanted to become comfortable with JavaScript and more comfortable with algorithmic thinking. Game Time helped with both of these. I also redid two projects from module one (Linked Lists and Mastermind) and wrote blog posts on topics that confused me (sessions v. cookies, n+1 queries, and time in Rails).
 
 ### Attendance
 
@@ -37,14 +37,14 @@ Total Points: 141
 
 **Description**
 
-ThoughtBox was a one-day assessment where we built a basic CRUD application where can add and edit links as well as mark those that have been read/ have-not been read.
+ThoughtBox was a one-day assessment where we built a basic CRUD application where one can add and edit links as well as mark those that have been read/ have-not been read.
 
 **Evaluation Comments**
 
-Percentage Grade: 94.00%
-Total Points: 141
+Percentage Grade: 90.00%
+Total Points: 90
 
-#### Real Time - Socket IO
+#### Real Time Polling Application
 
 * [Website](https://realtimeanytime.herokuapp.com/)
 * [GitHub URL](https://github.com/bad6e/real_time)
@@ -52,7 +52,7 @@ Total Points: 141
 
 **Description**
 
-In this project, I used Express, Socket.io, and JavaScript to build a real time polling application. I also tested using Nightwatch, Zombie.js, Mocha, Chai, and Sinon for unit and feature testing.
+In this project, I used Express, Socket.io, and JavaScript to build a real time polling application. I also used Nightwatch, Zombie.js, Mocha, Chai, and Sinon for unit and feature testing.
 
 **Evaluation Comments**
 
@@ -73,7 +73,7 @@ In module four, I participated in the following team project:
 
 **Description**
 
-Breakout was based on the Atari 2600 classic Breakout. For this project we used Webpack, JavaScript, Mocha, and Chai.
+Breakout was based on the Atari 2600 classic Breakout. For this project we used Webpack, JavaScript, Mocha, and Chai to build a game from scratch.
 
 The good:
 
@@ -83,9 +83,7 @@ The bad:
 
 * Initial Setup
 
-* Starting the project - felt a little burnt out from the prior project.
-
-**Personal Comments**
+**Evaluation Comments**
 
 Percentage Grade: 90.67%
 Total Points: 272
@@ -96,9 +94,11 @@ Total Points: 272
 
 ### Giving Feedback
 
+Gave feedback during Game Time.
+
 ### Playing a Part
 
-* Paired with module one students with Linked List and Enigma.
+* Paired with module one students during Linked Lists and Enigma.
 * Wrote blog posts
 * [Technical Blog](https://medium.com/@bretdoucette)
 * Volunteered for New Students
