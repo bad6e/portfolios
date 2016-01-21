@@ -26,8 +26,8 @@ Idea Box is a basic CRUD application that encompassed a Rails API back-end/ Java
 
 **Evaluation Comments**
 
-Percentage Grade: 94.00%
-Total Points: 141
+* Percentage Grade: 94.00%
+* Total Points: 141
 
 #### ThoughtBox
 
@@ -41,8 +41,8 @@ ThoughtBox was a one-day assessment where we built a basic CRUD application wher
 
 **Evaluation Comments**
 
-Percentage Grade: 90.00%
-Total Points: 90
+* Percentage Grade: 90.00%
+* Total Points: 90
 
 #### Real Time Polling Application
 
@@ -86,8 +86,8 @@ The bad:
 
 **Evaluation Comments**
 
-Percentage Grade: 90.67%
-Total Points: 272
+* Percentage Grade: 90.67%
+* Total Points: 272
 
 **Feedback to me**
 
