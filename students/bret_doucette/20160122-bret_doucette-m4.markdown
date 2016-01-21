@@ -78,6 +78,7 @@ Breakout was based on the Atari 2600 classic Breakout. For this project we used 
 The good:
 
 * Building a game from scratch.
+* Refactoring and separating responsibilities
 
 The bad:
 
@@ -89,6 +90,8 @@ Percentage Grade: 90.67%
 Total Points: 272
 
 **Feedback to me**
+
+None
 
 ## Community
 
